@@ -1,0 +1,9 @@
+PRIME READ
+    ↓
+Python Processing Engine
+    ↓
+SQL Database
+    ↓
+Analytics & Validation
+    ↓
+Power BI Dashboards
